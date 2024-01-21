@@ -1,4 +1,4 @@
-# Predicting House Prices with Polynomial Regression Algorithm using Python
+# Project2: Predicting House Prices with Polynomial Regression Algorithm using Python
 ### The Boston house-price data
 
  Variables in order:
